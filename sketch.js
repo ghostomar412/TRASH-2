@@ -8,8 +8,8 @@ var bin,ground,paper,binp1,binp1,binp3;
 var binIMG,paperIMG
 function preload()
 {
-binIMG=loadImage("sprites/dustbingreen.png");
-paperIMG=loadImage("sprites/paper.png");
+binIMG=loadImage("dustbingreen.png");
+paperIMG=loadImage("paper.png");
 }
 
 function setup() {
